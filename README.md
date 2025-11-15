@@ -2,9 +2,9 @@ import asyncio
 from aiogram import Bot, Dispatcher, types
 import os
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv(8507545517:AAHV-vht_PHCRAJqxR73zBipdSn71GWALJo)
 
-bot = Bot(token=TOKEN)
+bot = Bot(8507545517:AAHV-vht_PHCRAJqxR73zBipdSn71GWALJo)
 dp = Dispatcher()
 
 @dp.message()
