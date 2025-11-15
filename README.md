@@ -1,4 +1,4 @@
-# Rooomimport asyncio
+import asyncio
 from aiogram import Bot, Dispatcher, types
 import os
 
